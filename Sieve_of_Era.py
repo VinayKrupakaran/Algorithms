@@ -1,5 +1,5 @@
 #Implementation of the Sieve of Eratosthenes method to generate prime numbers upto and including 'n'
-
+#Current implementation efficient only up to n = 10000
 import sys
 
 def sieve(n):
